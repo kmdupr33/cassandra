@@ -1,0 +1,13 @@
+{
+  "main.css": "/cassandra/static/css/main.c3f496a9.chunk.css",
+  "main.js": "/cassandra/static/js/main.f408d437.chunk.js",
+  "main.js.map": "/cassandra/static/js/main.f408d437.chunk.js.map",
+  "runtime~main.js": "/cassandra/static/js/runtime~main.128eaa26.js",
+  "runtime~main.js.map": "/cassandra/static/js/runtime~main.128eaa26.js.map",
+  "static/js/2.231f7d6c.chunk.js": "/cassandra/static/js/2.231f7d6c.chunk.js",
+  "static/js/2.231f7d6c.chunk.js.map": "/cassandra/static/js/2.231f7d6c.chunk.js.map",
+  "index.html": "/cassandra/index.html",
+  "precache-manifest.a80601128d9661af3902d55b6cd43667.js": "/cassandra/precache-manifest.a80601128d9661af3902d55b6cd43667.js",
+  "service-worker.js": "/cassandra/service-worker.js",
+  "static/css/main.c3f496a9.chunk.css.map": "/cassandra/static/css/main.c3f496a9.chunk.css.map"
+}
